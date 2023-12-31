@@ -2,7 +2,7 @@
 _The Employee Task Manager is designed to enhance task management within the organization, promoting collaboration and efficiency. The use of local storage ensures data persistence, while the intuitive interface makes it accessible to users with varying levels of technical expertise._
 
 __Task Management:__ 
-1. Create, edit, and delete tasks.
+1. Features : Create, edit, delete and see currrent status of each task.
 2. Assign tasks to specific employees.
 
 __User-Friendly Interface:__ 
@@ -16,4 +16,4 @@ __Local Storage:__
 
 _Tech stack_ : ```HTML```, ```CSS```, ```BOOTSTRAP```, ```JQUERY```, ```JavaScript```, ```Vercel```, ```Git/GitHub```
 
-__link__: https://project-manegement-tool.vercel.app
+__Link__: https://project-manegement-tool.vercel.app
